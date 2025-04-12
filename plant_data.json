@@ -1,662 +1,664 @@
-[
-  {
-    "id": 1,
-    "name": "African Mask Plant",
-    "scientificName": "Alocasia amazonica",
-    "watering": {
-      "winter": "Every 2 weeks",
-      "spring": "Once a week",
-      "summer": "Once a week"
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "African Mask Plant",
+      "scientificName": "Alocasia amazonica",
+      "watering": {
+        "winter": "Every 2 weeks",
+        "spring": "Once a week",
+        "summer": "Once a week"
+      },
+      "fertilization": "Every 2-3 weeks during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Sleeping Room",
+      "careTips": "Prefers bright, indirect light and high humidity. Keep soil moist but not soggy."
     },
-    "fertilization": "Every 2-3 weeks during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Sleeping Room",
-    "careTips": "Prefers bright, indirect light and high humidity. Keep soil moist but not soggy."
-  },
-  {
-    "id": 2,
-    "name": "Banana Plant",
-    "scientificName": "Musa spp.",
-    "watering": {
-      "winter": "Every 7-10 days",
-      "spring": "Every 3-5 days",
-      "summer": "Every 2-3 days"
+    {
+      "id": 2,
+      "name": "Banana Plant",
+      "scientificName": "Musa spp.",
+      "watering": {
+        "winter": "Every 7-10 days",
+        "spring": "Every 3-5 days",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 2 weeks during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Sleeping Room",
+      "careTips": "Requires full sun and consistently moist soil. Fertilize regularly with a high-potassium fertilizer."
     },
-    "fertilization": "Every 2 weeks during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Sleeping Room",
-    "careTips": "Requires full sun and consistently moist soil. Fertilize regularly with a high-potassium fertilizer."
-  },
-  {
-    "id": 3,
-    "name": "Swiss Cheese Plant",
-    "scientificName": "Monstera deliciosa",
-    "watering": {
-      "winter": "Every 10-14 days",
-      "spring": "Every 7-10 days",
-      "summer": "Once a week"
+    {
+      "id": 3,
+      "name": "Swiss Cheese Plant",
+      "scientificName": "Monstera deliciosa",
+      "watering": {
+        "winter": "Every 10-14 days",
+        "spring": "Every 7-10 days",
+        "summer": "Once a week"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Sleeping Room",
+      "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Sleeping Room",
-    "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
-  },
-  {
-    "id": 4,
-    "name": "Swiss Cheese Plant",
-    "scientificName": "Monstera deliciosa",
-    "watering": {
-      "winter": "Every 10-14 days",
-      "spring": "Every 7-10 days",
-      "summer": "Once a week"
+    {
+      "id": 4,
+      "name": "Swiss Cheese Plant",
+      "scientificName": "Monstera deliciosa",
+      "watering": {
+        "winter": "Every 10-14 days",
+        "spring": "Every 7-10 days",
+        "summer": "Once a week"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Sleeping Room",
+      "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Sleeping Room",
-    "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
-  },
-  {
-    "id": 5,
-    "name": "Snake Plant",
-    "scientificName": "Sansevieria trifasciata",
-    "watering": {
-      "winter": "Once a month",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 2 weeks"
+    {
+      "id": 5,
+      "name": "Snake Plant",
+      "scientificName": "Sansevieria trifasciata",
+      "watering": {
+        "winter": "Once a month",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 2 weeks"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Floor",
+      "careTips": "Tolerant of low light and infrequent watering. Avoid overwatering."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Floor",
-    "careTips": "Tolerant of low light and infrequent watering. Avoid overwatering."
-  },
-  {
-    "id": 6,
-    "name": "Peace Lily",
-    "scientificName": "Spathiphyllum spp.",
-    "watering": {
-      "winter": "Every 10-14 days",
-      "spring": "Once a week",
-      "summer": "Every 5-7 days"
+    {
+      "id": 6,
+      "name": "Peace Lily",
+      "scientificName": "Spathiphyllum spp.",
+      "watering": {
+        "winter": "Every 10-14 days",
+        "spring": "Once a week",
+        "summer": "Every 5-7 days"
+      },
+      "fertilization": "Every 6 weeks during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Floor",
+      "careTips": "Prefers shade to partial light. Keep soil consistently moist but not soggy."
     },
-    "fertilization": "Every 6 weeks during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Floor",
-    "careTips": "Prefers shade to partial light. Keep soil consistently moist but not soggy."
-  },
-  {
-    "id": 7,
-    "name": "Weeping Fig",
-    "scientificName": "Ficus benjamina",
-    "watering": {
-      "winter": "Every 2 weeks",
-      "spring": "Every 7-10 days",
-      "summer": "Once a week"
+    {
+      "id": 7,
+      "name": "Weeping Fig",
+      "scientificName": "Ficus benjamina",
+      "watering": {
+        "winter": "Every 2 weeks",
+        "spring": "Every 7-10 days",
+        "summer": "Once a week"
+      },
+      "fertilization": "Every 4-6 weeks during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Above",
+      "careTips": "Likes consistent location and indirect light. Water when topsoil is dry."
     },
-    "fertilization": "Every 4-6 weeks during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Above",
-    "careTips": "Likes consistent location and indirect light. Water when topsoil is dry."
-  },
-  {
-    "id": 8,
-    "name": "Easter Cactus",
-    "scientificName": "Hatiora gaertneri",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Weekly"
+    {
+      "id": 8,
+      "name": "Easter Cactus",
+      "scientificName": "Hatiora gaertneri",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Weekly"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Above",
+      "careTips": "Needs bright indirect light. Water when the top inch of soil is dry."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Above",
-    "careTips": "Needs bright indirect light. Water when the top inch of soil is dry."
-  },
-  {
-    "id": 9,
-    "name": "Spider Plant",
-    "scientificName": "Chlorophytum comosum",
-    "watering": {
-      "winter": "Every 2 weeks",
-      "spring": "Weekly",
-      "summer": "Weekly"
+    {
+      "id": 9,
+      "name": "Spider Plant",
+      "scientificName": "Chlorophytum comosum",
+      "watering": {
+        "winter": "Every 2 weeks",
+        "spring": "Weekly",
+        "summer": "Weekly"
+      },
+      "fertilization": "Every 2 weeks during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Above",
+      "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
     },
-    "fertilization": "Every 2 weeks during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Above",
-    "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
-  },
-  {
-    "id": 10,
-    "name": "String of Nickels",
-    "scientificName": "Dischidia nummularia",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Every 10 days",
-      "summer": "Weekly"
+    {
+      "id": 10,
+      "name": "String of Nickels",
+      "scientificName": "Dischidia nummularia",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Every 10 days",
+        "summer": "Weekly"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Above",
+      "careTips": "Prefers humidity and indirect light. Let soil dry between waterings."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Above",
-    "careTips": "Prefers humidity and indirect light. Let soil dry between waterings."
-  },
-  {
-    "id": 11,
-    "name": "Madagascar Jewel",
-    "scientificName": "Euphorbia leuconeura",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Every 7-10 days",
-      "summer": "Weekly"
+    {
+      "id": 11,
+      "name": "Madagascar Jewel",
+      "scientificName": "Euphorbia leuconeura",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Every 7-10 days",
+        "summer": "Weekly"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Above",
+      "careTips": "Bright light and well-draining soil. Avoid contact with sap."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Above",
-    "careTips": "Bright light and well-draining soil. Avoid contact with sap."
-  },
-  {
-    "id": 12,
-    "name": "Ghost Plant",
-    "scientificName": "Graptosedum \u2018Ghosty\u2019",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 12,
+      "name": "Ghost Plant",
+      "scientificName": "Graptosedum \u2018Ghosty\u2019",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Full sun to partial shade. Let soil dry completely between watering."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Full sun to partial shade. Let soil dry completely between watering."
-  },
-  {
-    "id": 13,
-    "name": "Haworthia",
-    "scientificName": "Haworthiopsis concolor",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2 weeks",
-      "summer": "Every 10 days"
+    {
+      "id": 13,
+      "name": "Haworthia",
+      "scientificName": "Haworthiopsis concolor",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2 weeks",
+        "summer": "Every 10 days"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Tolerates low light. Water when soil is dry."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Tolerates low light. Water when soil is dry."
-  },
-  {
-    "id": 14,
-    "name": "Quadrangular Spurge",
-    "scientificName": "Euphorbia 'quadrangularis'",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 14,
+      "name": "Quadrangular Spurge",
+      "scientificName": "Euphorbia 'quadrangularis'",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Bright light and dry conditions. Caution: sap is toxic."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Bright light and dry conditions. Caution: sap is toxic."
-  },
-  {
-    "id": 15,
-    "name": "Chin Cactus",
-    "scientificName": "Gymnocalycium spp.",
-    "watering": {
-      "winter": "Rarely",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 15,
+      "name": "Chin Cactus",
+      "scientificName": "Gymnocalycium spp.",
+      "watering": {
+        "winter": "Rarely",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Bright light. Use cactus soil and avoid overwatering."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Bright light. Use cactus soil and avoid overwatering."
-  },
-  {
-    "id": 16,
-    "name": "Bromeliad",
-    "scientificName": "Bromeliaceae spp.",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 5-7 days"
+    {
+      "id": 16,
+      "name": "Bromeliad",
+      "scientificName": "Bromeliaceae spp.",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 5-7 days"
+      },
+      "fertilization": "Every 1-2 months",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Bright indirect light. Water in the central cup and change water weekly."
     },
-    "fertilization": "Every 1-2 months",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Bright indirect light. Water in the central cup and change water weekly."
-  },
-  {
-    "id": 17,
-    "name": "Jade Plant",
-    "scientificName": "Crassula ovata",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 17,
+      "name": "Jade Plant",
+      "scientificName": "Crassula ovata",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Needs full sun and well-draining soil. Let dry between watering."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Needs full sun and well-draining soil. Let dry between watering."
-  },
-  {
-    "id": 18,
-    "name": "Gollum Jade",
-    "scientificName": "Crassula ovata \u2018Gollum\u2019",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 18,
+      "name": "Gollum Jade",
+      "scientificName": "Crassula ovata \u2018Gollum\u2019",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Kitchen Window",
+      "careTips": "Bright light and minimal water. Avoid standing water."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Kitchen Window",
-    "careTips": "Bright light and minimal water. Avoid standing water."
-  },
-  {
-    "id": 19,
-    "name": "Boat Lily",
-    "scientificName": "Tradescantia spathacea",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 2-3 days"
+    {
+      "id": 19,
+      "name": "Boat Lily",
+      "scientificName": "Tradescantia spathacea",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 3-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Prefers bright indirect light. Keep soil lightly moist."
     },
-    "fertilization": "Every 3-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Prefers bright indirect light. Keep soil lightly moist."
-  },
-  {
-    "id": 20,
-    "name": "Jade Plant",
-    "scientificName": "Crassula ovata",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Every 10-14 days"
+    {
+      "id": 20,
+      "name": "Jade Plant",
+      "scientificName": "Crassula ovata",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Every 10-14 days"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Needs full sun and well-draining soil. Let dry between watering."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Needs full sun and well-draining soil. Let dry between watering."
-  },
-  {
-    "id": 21,
-    "name": "Haworthia",
-    "scientificName": "Haworthia spp.",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2 weeks",
-      "summer": "Every 10 days"
+    {
+      "id": 21,
+      "name": "Haworthia",
+      "scientificName": "Haworthia spp.",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2 weeks",
+        "summer": "Every 10 days"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Tolerates low light. Water when soil is dry."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Tolerates low light. Water when soil is dry."
-  },
-  {
-    "id": 22,
-    "name": "Jasmine",
-    "scientificName": "Jasminum spp.",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 3-4 days"
+    {
+      "id": 22,
+      "name": "Jasmine",
+      "scientificName": "Jasminum spp.",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 3-4 days"
+      },
+      "fertilization": "Every 2-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun to partial shade. Regular watering and rich soil."
     },
-    "fertilization": "Every 2-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun to partial shade. Regular watering and rich soil."
-  },
-  {
-    "id": 23,
-    "name": "Primrose (salmon)",
-    "scientificName": "Primula spp.",
-    "watering": {
-      "winter": "Weekly",
-      "spring": "Every 3-4 days",
-      "summer": "Every 2-3 days"
+    {
+      "id": 23,
+      "name": "Primrose (salmon)",
+      "scientificName": "Primula spp.",
+      "watering": {
+        "winter": "Weekly",
+        "spring": "Every 3-4 days",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 2-3 weeks",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Bright indirect light. Keep soil moist but not soggy."
     },
-    "fertilization": "Every 2-3 weeks",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Bright indirect light. Keep soil moist but not soggy."
-  },
-  {
-    "id": 24,
-    "name": "Primrose (pink)",
-    "scientificName": "Primula spp.",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 24,
+      "name": "Primrose (pink)",
+      "scientificName": "Primula spp.",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": ""
-  },
-  {
-    "id": 25,
-    "name": "Primrose (orange)",
-    "scientificName": "Primula spp.",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 25,
+      "name": "Primrose (orange)",
+      "scientificName": "Primula spp.",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": ""
-  },
-  {
-    "id": 26,
-    "name": "Primrose (fuchsia)",
-    "scientificName": "Primula spp.",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 26,
+      "name": "Primrose (fuchsia)",
+      "scientificName": "Primula spp.",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": ""
-  },
-  {
-    "id": 27,
-    "name": "Wild Strawberry",
-    "scientificName": "Fragaria vesca",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 2-3 days"
+    {
+      "id": 27,
+      "name": "Wild Strawberry",
+      "scientificName": "Fragaria vesca",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 3-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Keep soil moist and well-drained."
     },
-    "fertilization": "Every 3-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Keep soil moist and well-drained."
-  },
-  {
-    "id": 28,
-    "name": "Wild Strawberry",
-    "scientificName": "Fragaria vesca",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 2-3 days"
+    {
+      "id": 28,
+      "name": "Wild Strawberry",
+      "scientificName": "Fragaria vesca",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 3-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Keep soil moist and well-drained."
     },
-    "fertilization": "Every 3-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Keep soil moist and well-drained."
-  },
-  {
-    "id": 29,
-    "name": "Wild Strawberry",
-    "scientificName": "Fragaria vesca",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 2-3 days"
+    {
+      "id": 29,
+      "name": "Wild Strawberry",
+      "scientificName": "Fragaria vesca",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 3-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Keep soil moist and well-drained."
     },
-    "fertilization": "Every 3-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Keep soil moist and well-drained."
-  },
-  {
-    "id": 30,
-    "name": "Wild Strawberry",
-    "scientificName": "Fragaria vesca",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 2-3 days"
+    {
+      "id": 30,
+      "name": "Wild Strawberry",
+      "scientificName": "Fragaria vesca",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 3-4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Keep soil moist and well-drained."
     },
-    "fertilization": "Every 3-4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Keep soil moist and well-drained."
-  },
-  {
-    "id": 31,
-    "name": "Mini Rose (Red)",
-    "scientificName": "Rosa spp.",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Weekly",
-      "summer": "Every 3-4 days"
+    {
+      "id": 31,
+      "name": "Mini Rose (Red)",
+      "scientificName": "Rosa spp.",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Weekly",
+        "summer": "Every 3-4 days"
+      },
+      "fertilization": "Every 2-3 weeks",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Keep evenly moist and deadhead regularly."
     },
-    "fertilization": "Every 2-3 weeks",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Keep evenly moist and deadhead regularly."
-  },
-  {
-    "id": 32,
-    "name": "Mini Rose (Pink)",
-    "scientificName": "Rosa spp.",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 32,
+      "name": "Mini Rose (Pink)",
+      "scientificName": "Rosa spp.",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": ""
-  },
-  {
-    "id": 33,
-    "name": "Lavender",
-    "scientificName": "Lavandula spp.",
-    "watering": {
-      "winter": "Every 3-4 weeks",
-      "spring": "Every 2-3 weeks",
-      "summer": "Weekly"
+    {
+      "id": 33,
+      "name": "Lavender",
+      "scientificName": "Lavandula spp.",
+      "watering": {
+        "winter": "Every 3-4 weeks",
+        "spring": "Every 2-3 weeks",
+        "summer": "Weekly"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun and well-drained soil. Avoid high humidity."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun and well-drained soil. Avoid high humidity."
-  },
-  {
-    "id": 34,
-    "name": "Rosemary",
-    "scientificName": "Salvia rosmarinus",
-    "watering": {
-      "winter": "Every 2-3 weeks",
-      "spring": "Every 10 days",
-      "summer": "Weekly"
+    {
+      "id": 34,
+      "name": "Rosemary",
+      "scientificName": "Salvia rosmarinus",
+      "watering": {
+        "winter": "Every 2-3 weeks",
+        "spring": "Every 10 days",
+        "summer": "Weekly"
+      },
+      "fertilization": "Monthly during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Full sun. Allow soil to dry out between waterings."
     },
-    "fertilization": "Monthly during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Full sun. Allow soil to dry out between waterings."
-  },
-  {
-    "id": 35,
-    "name": "Peppermint",
-    "scientificName": "Mentha \u00d7 piperita",
-    "watering": {
-      "winter": "Weekly",
-      "spring": "Every 3-4 days",
-      "summer": "Every 2-3 days"
+    {
+      "id": 35,
+      "name": "Peppermint",
+      "scientificName": "Mentha \u00d7 piperita",
+      "watering": {
+        "winter": "Weekly",
+        "spring": "Every 3-4 days",
+        "summer": "Every 2-3 days"
+      },
+      "fertilization": "Every 4 weeks during growing season",
+      "photo": "",
+      "location": "outdoor",
+      "room": "Balcony",
+      "careTips": "Moist, rich soil and partial sun. Can spread aggressively."
     },
-    "fertilization": "Every 4 weeks during growing season",
-    "photo": "",
-    "location": "outdoor",
-    "room": "Balcony",
-    "careTips": "Moist, rich soil and partial sun. Can spread aggressively."
-  },
-  {
-    "id": 36,
-    "name": "Swiss Cheese Plant",
-    "scientificName": "Monstera deliciosa",
-    "watering": {
-      "winter": "Every 10-14 days",
-      "spring": "Every 7-10 days",
-      "summer": "Once a week"
+    {
+      "id": 36,
+      "name": "Swiss Cheese Plant",
+      "scientificName": "Monstera deliciosa",
+      "watering": {
+        "winter": "Every 10-14 days",
+        "spring": "Every 7-10 days",
+        "summer": "Once a week"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
-  },
-  {
-    "id": 37,
-    "name": "Swiss Cheese Plant",
-    "scientificName": "Monstera deliciosa",
-    "watering": {
-      "winter": "Every 10-14 days",
-      "spring": "Every 7-10 days",
-      "summer": "Once a week"
+    {
+      "id": 37,
+      "name": "Swiss Cheese Plant",
+      "scientificName": "Monstera deliciosa",
+      "watering": {
+        "winter": "Every 10-14 days",
+        "spring": "Every 7-10 days",
+        "summer": "Once a week"
+      },
+      "fertilization": "Once a month during growing season",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
     },
-    "fertilization": "Once a month during growing season",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": "Thrives in bright, indirect light. Allow soil to dry slightly between waterings."
-  },
-  {
-    "id": 38,
-    "name": "Chinese Money Plant",
-    "scientificName": "Pilea peperomioides",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 38,
+      "name": "Chinese Money Plant",
+      "scientificName": "Pilea peperomioides",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 39,
-    "name": "Chinese Money Plant",
-    "scientificName": "Pilea peperomioides",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 39,
+      "name": "Chinese Money Plant",
+      "scientificName": "Pilea peperomioides",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 40,
-    "name": "Rubber Plant",
-    "scientificName": "Ficus elastica",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 40,
+      "name": "Rubber Plant",
+      "scientificName": "Ficus elastica",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 41,
-    "name": "Fiddle Leaf Fig",
-    "scientificName": "Ficus lyrata",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 41,
+      "name": "Fiddle Leaf Fig",
+      "scientificName": "Ficus lyrata",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 42,
-    "name": "Dragon Tree",
-    "scientificName": "Dracaena marginata",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 42,
+      "name": "Dragon Tree",
+      "scientificName": "Dracaena marginata",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 43,
-    "name": "Poinsettia",
-    "scientificName": "Euphorbia pulcherrima",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
+    {
+      "id": 43,
+      "name": "Poinsettia",
+      "scientificName": "Euphorbia pulcherrima",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
     },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  },
-  {
-    "id": 44,
-    "name": "Aloe Vera",
-    "scientificName": "Aloe vera",
-    "watering": {
-      "winter": "",
-      "spring": "",
-      "summer": ""
-    },
-    "fertilization": "",
-    "photo": "",
-    "location": "indoor",
-    "room": "Living Room",
-    "careTips": ""
-  }
-]
+    {
+      "id": 44,
+      "name": "Aloe Vera",
+      "scientificName": "Aloe vera",
+      "watering": {
+        "winter": "",
+        "spring": "",
+        "summer": ""
+      },
+      "fertilization": "",
+      "photo": "",
+      "location": "indoor",
+      "room": "Living Room",
+      "careTips": ""
+    }
+  ]
+}
