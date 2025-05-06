@@ -9,7 +9,7 @@
     "careTips": "Prefers bright, indirect light and high humidity. Keep soil moist but not soggy.",
     "wateringFrequencyDays": 7,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 2,
@@ -19,9 +19,9 @@
     "location": "indoor",
     "room": "Sleeping Room",
     "careTips": "Requires full sun and consistently moist soil. Fertilize regularly with a high-potassium fertilizer.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 3,
@@ -57,7 +57,7 @@
     "careTips": "Tolerant of low light and infrequent watering. Avoid overwatering.",
     "wateringFrequencyDays": 14,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "careTips": "Prefers shade to partial light. Keep soil consistently moist but not soggy.",
     "wateringFrequencyDays": 6,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 7,
@@ -115,7 +115,7 @@
     "location": "indoor",
     "room": "Kitchen Above",
     "careTips": "Prefers humidity and indirect light. Let soil dry between waterings.",
-    "wateringFrequencyDays": 7,
+    "wateringFrequencyDays": 10,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -127,7 +127,7 @@
     "location": "indoor",
     "room": "Kitchen Above",
     "careTips": "Bright light and well-draining soil. Avoid contact with sap.",
-    "wateringFrequencyDays": 7,
+    "wateringFrequencyDays": 10,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -141,7 +141,7 @@
     "careTips": "Full sun to partial shade. Let soil dry completely between watering.",
     "wateringFrequencyDays": 12,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "careTips": "Tolerates low light. Water when soil is dry.",
     "wateringFrequencyDays": 14,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "careTips": "Bright light and dry conditions. Caution: sap is toxic.",
     "wateringFrequencyDays": 12,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 15,
@@ -175,9 +175,9 @@
     "location": "indoor",
     "room": "Kitchen Window",
     "careTips": "Bright light. Use cactus soil and avoid overwatering.",
-    "wateringFrequencyDays": 12,
+    "wateringFrequencyDays": 14,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 16,
@@ -187,9 +187,9 @@
     "location": "indoor",
     "room": "Kitchen Window",
     "careTips": "Bright indirect light. Water in the central cup and change water weekly.",
-    "wateringFrequencyDays": 6,
+    "wateringFrequencyDays": 7,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "careTips": "Needs full sun and well-draining soil. Let dry between watering.",
     "wateringFrequencyDays": 12,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "careTips": "Bright light and minimal water. Avoid standing water.",
     "wateringFrequencyDays": 12,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 19,
@@ -223,9 +223,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Prefers bright indirect light. Keep soil lightly moist.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 4,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "careTips": "Needs full sun and well-draining soil. Let dry between watering.",
     "wateringFrequencyDays": 12,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "careTips": "Tolerates low light. Water when soil is dry.",
     "wateringFrequencyDays": 14,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 1
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "careTips": "Full sun to partial shade. Regular watering and rich soil.",
     "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "careTips": "Bright indirect light. Keep soil moist but not soggy.",
     "wateringFrequencyDays": 2,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 24,
@@ -283,7 +283,7 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "",
-    "wateringFrequencyDays": 10,
+    "wateringFrequencyDays": 7,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -295,7 +295,7 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "",
-    "wateringFrequencyDays": 10,
+    "wateringFrequencyDays": 7,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -307,7 +307,7 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "",
-    "wateringFrequencyDays": 10,
+    "wateringFrequencyDays": 7,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -319,9 +319,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Keep soil moist and well-drained.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 28,
@@ -331,9 +331,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Keep soil moist and well-drained.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 29,
@@ -343,9 +343,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Keep soil moist and well-drained.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 30,
@@ -355,9 +355,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Keep soil moist and well-drained.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 31,
@@ -367,9 +367,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Keep evenly moist and deadhead regularly.",
-    "wateringFrequencyDays": 3,
+    "wateringFrequencyDays": 4,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 32,
@@ -379,9 +379,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "",
-    "wateringFrequencyDays": 10,
+    "wateringFrequencyDays": 5,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 33,
@@ -391,7 +391,7 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun and well-drained soil. Avoid high humidity.",
-    "wateringFrequencyDays": 7,
+    "wateringFrequencyDays": 10,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -403,7 +403,7 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Full sun. Allow soil to dry out between waterings.",
-    "wateringFrequencyDays": 7,
+    "wateringFrequencyDays": 10,
     "lastWatered": "2025-05-06",
     "thirstLevel": 2
   },
@@ -415,9 +415,9 @@
     "location": "outdoor",
     "room": "Balcony",
     "careTips": "Moist, rich soil and partial sun. Can spread aggressively.",
-    "wateringFrequencyDays": 2,
+    "wateringFrequencyDays": 3,
     "lastWatered": "2025-05-06",
-    "thirstLevel": 2
+    "thirstLevel": 3
   },
   {
     "id": 36,
@@ -528,4 +528,3 @@
     "thirstLevel": 2
   }
 ]
-
