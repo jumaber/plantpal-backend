@@ -1,4 +1,5 @@
-[
+{
+  "plants": [
   {
     "id": 1,
     "name": "African Mask Plant",
@@ -528,3 +529,4 @@
     "thirstLevel": 2
   }
 ]
+}
